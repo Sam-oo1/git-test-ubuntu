@@ -1,2 +1,3 @@
 hello this is something.txt file
 
+testing the branch conflict scenario. I'm Developer A.
